@@ -1,0 +1,356 @@
+domain,domain_Age,lifeSpan,registrar_Country,host_Country,Same_Registrar_Host_Country,Privacy,TLD,cheap_TLD,domain_Has_Hyphen,domain_Has_Digits,top1m
+linktr.ee,7.745205479,8,AUSTRALIA,UNITED STATES,False,False,ee,False,False,False,True
+themeforest.net,16.03287671,18,AUSTRALIA,CANADA,False,False,net,False,False,False,True
+bitly.com,20.07671233,21,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+theguardian.com,29.43561644,30,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+wpengine.com,13.74520548,15,UNITED STATES,CANADA,False,False,com,False,False,False,True
+theatlantic.com,28.3260274,30,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+myshopify.com,17.76986301,17,CANADA,CANADA,True,False,com,False,False,False,False
+ai-lawandorder.com,0.775342466,2,HONG KONG,HONG KONG,True,True,com,False,True,False,False
+t.co,13.61917808,13,UNITED STATES,UNITED STATES,True,True,co,False,False,False,True
+thelancet.com,27.78082192,28,UK,UNITED STATES,False,False,com,False,False,False,True
+facebook.com,26.70410959,35,UNITED STATES,INDIA,False,False,com,False,False,False,True
+amazon.com,29.11232877,29,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+sciencedaily.com,28.07123288,33,UNITED STATES,INDIA,False,False,com,False,False,False,True
+opera.com,24.66027397,6,NORWAY,THE NETHERLANDS,False,True,com,False,False,False,True
+newsweek.com,29.57260274,30,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+allaboutcookies.org,15.46575342,20,UNITED STATES,CANADA,False,True,org,False,False,False,True
+google.com,26.23835616,30,UNITED STATES,INDIA,False,False,com,False,False,False,True
+sourceforge.net,24.34246575,25,UNITED STATES,CANADA,False,False,net,False,False,False,True
+hp.com,37.78356164,38,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+amazon.de,0.0,1,,IRELAND,False,False,de,False,False,False,True
+alibaba.com,24.65753425,26,CHINA,UNITED STATES,False,False,com,False,False,False,True
+forbes.com,30.48767123,30,UNITED STATES,CANADA,False,False,com,False,False,False,True
+deviantart.com,23.62739726,32,UNITED STATES,INDIA,False,False,com,False,False,False,True
+shopify.com,18.74794521,20,CANADA,CANADA,True,False,com,False,False,False,True
+mysql.com,24.85205479,25,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+arxiv.org,24.95342466,31,UNITED STATES,UNITED STATES,True,True,org,False,False,False,True
+quora.com,23.69863014,24,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+cbc.ca,23.14794521,24,CANADA,UNITED KINGDOM,False,False,ca,False,False,False,True
+behance.net,18.08767123,19,UNITED STATES,UNITED STATES,True,False,net,False,False,False,True
+state.gov,26.19178082,26,REDACTED FOR PRIVACY,UNITED STATES,False,True,gov,False,False,False,True
+washington.edu,37.27671233,0,UNITED STATES,UNITED STATES,True,False,edu,False,False,False,True
+sagepub.com,34.57808219,36,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+zendesk.com,18.56438356,19,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+europa.eu,0.0,1,,LUXEMBOURG,False,False,eu,False,False,False,True
+wired.com,31.06027397,32,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+pixabay.com,13.16712329,14,FRANCE,CANADA,False,True,com,False,False,False,True
+qq.com,28.60821918,38,CHINA,CHINA,True,False,com,False,False,False,True
+statcounter.com,23.92876712,24,IRELAND,CANADA,False,False,com,False,False,False,True
+biomedcentral.com,24.34794521,24,UNITED KINGDOM,UNITED STATES,False,False,com,False,False,False,True
+elegantthemes.com,15.16712329,17,UNITED STATES,CANADA,False,False,com,False,False,False,True
+cnet.com,29.77260274,30,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+readthedocs.io,9.479452055,12,ICELAND,CANADA,False,True,io,False,False,False,False
+cloudflare.com,14.80273973,14,UNITED STATES,CANADA,False,False,com,False,False,False,True
+calendly.com,10.77534247,13,UNITED STATES,CANADA,False,False,com,False,False,False,True
+investopedia.com,24.38082192,25,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+google.com,26.23835616,30,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+kickstarter.com,24.9890411,28,ICELAND,CANADA,False,False,com,False,False,False,True
+gitlab.com,19.89863014,21,UNITED STATES,CANADA,False,True,com,False,False,False,True
+cpanel.net,23.07671233,29,UNITED STATES,UNITED STATES,True,True,net,False,False,False,True
+businesswire.com,27.85205479,28,UNITED STATES,FRANCE,False,False,com,False,False,False,True
+intuit.com,29.81369863,30,UNITED STATES,FRANCE,False,False,com,False,False,False,True
+upenn.edu,37.53424658,0,UNITED STATES,CANADA,False,False,edu,False,False,False,True
+android.com,26.46849315,26,UNITED STATES,FRANCE,False,False,com,False,False,False,True
+archive.org,27.99452055,29,UNITED STATES,UNITED STATES,True,True,org,False,False,False,True
+etsy.com,19.84109589,21,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+fda.gov,23.37260274,24,REDACTED FOR PRIVACY,FRANCE,False,True,gov,False,False,False,True
+huawei.com,23.91506849,27,CHINA,CHINA,True,False,com,False,False,False,True
+ietf.org,28.75616438,31,UNITED STATES,CANADA,False,True,org,False,False,False,True
+yale.edu,36.74520548,0,UNITED STATES,UNITED STATES,True,False,edu,False,False,False,True
+php.net,26.0630137,26,UNITED STATES,GERMANY,False,True,net,False,False,False,True
+tumblr.com,17.50136986,19,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+pbs.org,28.64931507,29,UNITED STATES,UNITED STATES,True,True,org,False,False,False,True
+worldbank.org,32.33150685,39,UNITED STATES,CANADA,False,True,org,False,False,False,True
+fortune.com,29.52876712,30,HONG KONG,FRANCE,False,False,com,False,False,False,True
+ec.europa.eu,0.0,1,,LUXEMBOURG,False,True,europa.eu,False,False,False,True
+github.io,10.74794521,12,UNITED STATES,UNITED STATES,True,True,io,False,False,False,False
+businessinsider.com,25.76712329,30,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+bbc.co.uk,27.36164384,0,,CANADA,False,False,co.uk,False,False,False,True
+qq.com,28.60821918,38,CHINA,CHINA,True,False,com,False,False,False,True
+psychologytoday.com,25.95068493,31,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+dailymotion.com,18.73424658,20,FRANCE,FRANCE,True,False,com,False,False,False,True
+pewresearch.org,20.39452055,26,UNITED STATES,UNITED STATES,True,True,org,False,False,False,True
+dailymail.co.uk,27.36164384,0,,FRANCE,False,False,co.uk,False,False,False,True
+nps.gov,26.19178082,26,REDACTED FOR PRIVACY,UNITED STATES,False,True,gov,False,False,False,True
+spotify.com,17.63013699,24,SWEDEN,UNITED STATES,False,False,com,False,False,False,True
+cisco.com,36.58630137,37,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+business.site,6.638356164,7,UNITED STATES,UNITED STATES,True,False,site,True,False,False,True
+msn.com,29.08767123,29,UNITED STATES,CANADA,False,False,com,False,False,False,True
+sciencemag.org,27.62191781,29,UNITED STATES,UNITED STATES,True,True,org,False,False,False,True
+openai.com,16.88493151,20,FRANCE,UNITED STATES,False,True,com,False,False,False,True
+prnewswire.com,28.59452055,29,UNITED STATES,CANADA,False,False,com,False,False,False,True
+engadget.com,19.87671233,20,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+apache.org,28.67123288,34,UNITED STATES,UNITED STATES,True,True,org,False,False,False,True
+microsoft.com,32.61643836,34,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+latimes.com,33.00273973,34,UNITED STATES,CANADA,False,False,com,False,False,False,True
+fao.org,30.41369863,39,ITALY,CANADA,False,True,org,False,False,False,True
+booking.com,25.65205479,26,NETHERLANDS,IRELAND,False,False,com,False,False,False,True
+ieee.org,34.03287671,34,UNITED STATES,UNITED STATES,True,True,org,False,False,False,True
+instagram.com,19.51506849,28,UNITED STATES,FRANCE,False,False,com,False,False,False,True
+eventbrite.com,17.86849315,17,UNITED STATES,THE NETHERLANDS,False,False,com,False,False,False,True
+huffpost.com,18.74794521,19,UNITED STATES,IRELAND,False,False,com,False,False,False,True
+academia.edu,24.5890411,0,UNITED STATES,IRELAND,False,False,edu,False,False,False,True
+pexels.com,9.564383562,10,AUSTRALIA,CANADA,False,True,com,False,False,False,True
+live.com,28.95616438,28,UNITED STATES,CANADA,False,False,com,False,False,False,True
+creativecommons.org,22.89863014,22,CANADA,CANADA,True,True,org,False,False,False,True
+oracle.com,35.03013699,35,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+mit.edu,38.56164384,0,UNITED STATES,FRANCE,False,False,edu,False,False,False,True
+youku.com,19.96712329,21,CHINA,CHINA,True,False,com,False,False,False,True
+go.com,25.92054795,25,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+npr.org,29.99726027,31,UNITED STATES,IRELAND,False,True,org,False,False,False,True
+xing.com,31.29863014,32,GERMANY,GERMANY,True,True,com,False,False,False,True
+squarespace.com,20.70958904,22,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+healthline.com,19.28767123,22,UNITED STATES,GERMANY,False,False,com,False,False,False,True
+cnn.com,30.22191781,33,UNITED STATES,UNITED STATES,True,True,com,False,False,False,True
+cnn.com,30.22191781,33,UNITED STATES,UNITED STATES,True,True,com,False,False,False,True
+blogspot.com,23.35890411,24,UNITED STATES,UNITED STATES,True,False,com,False,False,False,False
+office.com,24.64383562,25,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+tripod.com,29.20273973,29,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+gofundme.com,13.87671233,13,UNITED STATES,IRELAND,False,False,com,False,False,False,True
+bmj.com,28.79452055,29,FRANCE,IRELAND,False,True,com,False,False,False,True
+marriott.com,30.93424658,30,UNITED STATES,FRANCE,False,False,com,False,False,False,True
+theconversation.com,20.53150685,21,UNITED STATES,CANADA,False,True,com,False,False,False,True
+networkadvertising.org,24.10684932,25,UNITED STATES,IRELAND,False,True,org,False,False,False,True
+pinterest.com,14.03013699,15,UNITED STATES,CANADA,False,False,com,False,False,False,True
+gravatar.com,19.4,20,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+tiktok.com,27.39178082,27,CAYMAN ISLANDS,IRELAND,False,True,com,False,False,False,True
+ca.gov,26.19178082,26,REDACTED FOR PRIVACY,UNITED STATES,False,True,gov,False,False,False,True
+jimdo.com,18.01917808,18,GERMANY,CANADA,False,True,com,False,False,False,True
+feedburner.com,20.02191781,21,UNITED STATES,ITALY,False,False,com,False,False,False,True
+github.com,16.16438356,17,UNITED STATES,GERMANY,False,False,com,False,False,False,True
+wordpress.com,23.77260274,32,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+vice.com,26.53972603,31,UNITED KINGDOM,UNITED STATES,False,False,com,False,False,False,True
+goodreads.com,21.00273973,22,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+doi.org,24.89315068,28,UNITED STATES,CANADA,False,True,org,False,False,False,True
+mashable.com,18.3890411,20,UNITED STATES,CANADA,False,False,com,False,False,False,True
+trustpilot.com,16.44109589,12,DENMARK,IRELAND,False,True,com,False,False,False,True
+yahoo.com,28.89863014,29,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+springer.com,26.5369863,14,NETHERLANDS,FRANCE,False,False,com,False,False,False,True
+list-manage.com,17.64109589,24,UNITED STATES,UNITED STATES,True,True,com,False,True,False,True
+ibm.com,37.73972603,38,UNITED STATES,FRANCE,False,False,com,False,False,False,True
+openstreetmap.org,19.33150685,24,UNITED KINGDOM,THE NETHERLANDS,False,True,org,False,False,False,True
+apa.org,31.12054795,31,UNITED STATES,UNITED STATES,True,True,org,False,False,False,True
+tandfonline.com,18.27671233,19,UNITED STATES,CANADA,False,False,com,False,False,False,True
+wiley.com,29.16712329,30,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+googletagmanager.com,12.07123288,13,UNITED STATES,FRANCE,False,False,com,False,False,False,True
+wikihow.com,19.49041096,28,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+dell.com,35.05753425,35,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+bing.com,27.86849315,28,UNITED STATES,CANADA,False,False,com,False,False,False,True
+princeton.edu,36.69863014,0,UNITED STATES,UNITED STATES,True,False,edu,False,False,False,True
+twitch.tv,14.49863014,15,UNITED STATES,UNITED STATES,True,True,tv,False,False,False,True
+redhat.com,29.54794521,29,UNITED STATES,UNITED STATES,True,True,com,False,False,False,True
+reddit.com,18.6109589,19,UNITED STATES,CANADA,False,False,com,False,False,False,True
+guardian.co.uk,27.36164384,0,,UNITED STATES,False,False,co.uk,False,False,False,True
+oecd.org,28.99726027,34,UNITED STATES,FRANCE,False,True,org,False,False,False,True
+usda.gov,26.19178082,27,REDACTED FOR PRIVACY,UNITED STATES,False,True,gov,False,False,False,True
+science.org,28.8,29,UNITED STATES,UNITED STATES,True,True,org,False,False,False,True
+epa.gov,26.19178082,26,REDACTED FOR PRIVACY,UNITED STATES,False,True,gov,False,False,False,True
+typepad.com,20.69315068,24,UNITED STATES,CANADA,False,True,com,False,False,False,True
+example.com,28.32876712,32,,UNITED STATES,False,True,com,False,False,False,True
+inc.com,27.76712329,35,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+dw.com,29.01369863,28,GERMANY,GERMANY,True,True,com,False,False,False,True
+marketwatch.com,26.36438356,26,UNITED STATES,IRELAND,False,False,com,False,False,False,True
+meetup.com,25.30958904,25,UNITED STATES,CANADA,False,False,com,False,False,False,True
+perfectdomain.com,21.95342466,23,UNITED STATES,CANADA,False,False,com,False,False,False,True
+uci.edu,38.20547945,0,UNITED STATES,UNITED STATES,True,False,edu,False,False,False,True
+ft.com,29.03287671,29,UNITED KINGDOM,CANADA,False,False,com,False,False,False,True
+cornell.edu,38.41643836,0,UNITED STATES,UNITED STATES,True,False,edu,False,False,False,True
+ubuntu.com,19.52876712,20,UNITED KINGDOM,UNITED KINGDOM,True,False,com,False,False,False,True
+addthis.com,25.54520548,26,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+mozilla.org,25.87945205,26,UNITED STATES,UNITED STATES,True,True,org,False,False,False,True
+surveymonkey.com,24.09315068,25,UNITED STATES,IRELAND,False,False,com,False,False,False,True
+yelp.com,19.99178082,22,UNITED STATES,UNITED KINGDOM,False,False,com,False,False,False,True
+amzn.to,0.0,1,,UNITED STATES,False,False,to,False,False,False,True
+mysql.com,24.85205479,25,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+jstor.org,27.81917808,30,UNITED STATES,UNITED STATES,True,True,org,False,False,False,True
+outlook.com,29.31780822,29,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+google.com,26.23835616,30,UNITED STATES,FRANCE,False,False,com,False,False,False,True
+loc.gov,26.19178082,26,REDACTED FOR PRIVACY,CANADA,False,True,gov,False,False,False,True
+eepurl.com,14.95890411,21,UNITED STATES,FRANCE,False,True,com,False,False,False,True
+nginx.com,18.96164384,18,UNITED STATES,FRANCE,False,False,com,False,False,False,True
+weibo.com,24.72876712,112,CHINA,CHINA,True,False,com,False,False,False,True
+weforum.org,28.04109589,28,UNITED KINGDOM,IRELAND,False,True,org,False,False,False,True
+time.com,30.0630137,30,UNITED STATES,IRELAND,False,False,com,False,False,False,True
+mailchimp.com,22.44657534,27,UNITED STATES,FRANCE,False,False,com,False,False,False,True
+oreilly.com,26.54246575,26,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+salesforce.com,25.02465753,25,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+doi.org,24.89315068,28,UNITED STATES,CANADA,False,True,org,False,False,False,True
+fandom.com,27.16712329,29,CANADA,CANADA,True,False,com,False,False,False,True
+stanford.edu,38.19452055,0,UNITED STATES,UNITED STATES,True,False,edu,False,False,False,True
+berkeley.edu,38.64109589,0,UNITED STATES,UNITED STATES,True,False,edu,False,False,False,True
+archive.org,27.99452055,29,UNITED STATES,UNITED STATES,True,True,org,False,False,False,True
+soundcloud.com,18.37534247,18,GERMANY,IRELAND,False,True,com,False,False,False,True
+patreon.com,10.77534247,10,UNITED STATES,CANADA,False,False,com,False,False,False,True
+samsung.com,29.03561644,30,"KOREA, REPUBLIC OF",SOUTH KOREA,False,False,com,False,False,False,True
+sharepoint.com,25.3369863,25,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+nypost.com,27.2,27,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+ox.ac.uk,20.23013699,0,UNITED KINGDOM,UNITED STATES,False,False,ac.uk,False,False,False,True
+who.int,25.52876712,26,SWITZERLAND,CANADA,False,True,int,False,False,False,True
+disqus.com,17.00547945,18,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+merriam-webster.com,24.83835616,24,UNITED STATES,IRELAND,False,False,com,False,True,False,True
+live.com,28.95616438,28,UNITED STATES,CANADA,False,False,com,False,False,False,True
+columbia.edu,38.44383562,0,UNITED STATES,UNITED STATES,True,False,edu,False,False,False,True
+cookiedatabase.org,4.909589041,4,NETHERLANDS,CANADA,False,True,org,False,False,False,True
+elsevier.com,30.44657534,30,NETHERLANDS,AUSTRALIA,False,False,com,False,False,False,True
+zdnet.com,28.62739726,29,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+statista.com,17.94520548,17,GERMANY,GERMANY,True,True,com,False,False,False,True
+stripe.com,28.24931507,29,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+skype.com,20.63013699,21,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+yahoo.com,28.89863014,29,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+blogger.com,24.46849315,25,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+aboutads.info,14.17534247,15,UNITED STATES,IRELAND,False,True,info,False,False,False,True
+xinhuanet.com,23.61917808,24,CHINA,CHINA,True,True,com,False,False,False,True
+iso.org,28.00547945,28,SWITZERLAND,SWITZERLAND,True,True,org,False,False,False,True
+dribbble.com,15.72054795,16,UNITED STATES,FRANCE,False,True,com,False,False,False,True
+auctollo.com,14.27123288,15,,UNITED STATES,False,False,com,False,False,False,False
+huffingtonpost.com,18.74794521,19,UNITED STATES,IRELAND,False,False,com,False,False,False,True
+mailchi.mp,0.0,1,,FRANCE,False,False,mp,False,False,False,True
+issuu.com,16.63835616,17,UNITED KINGDOM,CANADA,False,False,com,False,False,False,True
+whatsapp.com,15.26027397,24,UNITED STATES,FRANCE,False,False,com,False,False,False,True
+baidu.com,24.16712329,27,CHINA,CHINA,True,False,com,False,False,False,True
+theverge.com,25.08219178,25,UNITED KINGDOM,UNITED STATES,False,False,com,False,False,False,True
+discord.gg,8.778082192,0,,CANADA,False,False,gg,False,False,False,True
+w3.org,29.43561644,34,UNITED STATES,CANADA,False,True,org,False,False,True,True
+researchgate.net,15.83013699,16,GERMANY,CANADA,False,False,net,False,False,False,True
+bit.ly,15.55890411,24,UNITED STATES,UNITED STATES,True,False,ly,False,False,False,True
+frontiersin.org,17.82191781,17,UNITED STATES,IRELAND,False,True,org,False,False,False,True
+forms.gle,4.81369863,4,UNITED STATES,UNITED STATES,True,True,gle,False,False,False,True
+amazon.co.uk,27.36164384,0,,IRELAND,False,False,co.uk,False,False,False,True
+godaddy.com,24.77808219,33,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+bilibili.com,19.13424658,26,CHINA,CHINA,True,False,com,False,False,False,True
+aol.com,28.4739726,29,UNITED STATES,SINGAPORE,False,False,com,False,False,False,True
+ftc.gov,26.19178082,26,REDACTED FOR PRIVACY,AUSTRIA,False,True,gov,False,False,False,True
+myspace.com,27.80273973,33,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+nginx.org,18.96164384,18,UNITED STATES,GERMANY,False,True,org,False,False,False,True
+livejournal.com,24.65753425,24,RUSSIAN FEDERATION,RUSSIA,False,False,com,False,False,False,True
+noaa.gov,26.19178082,26,REDACTED FOR PRIVACY,UNITED STATES,False,True,gov,False,False,False,True
+nytimes.com,29.89863014,31,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+python.org,28.71232877,38,UNITED STATES,UNITED STATES,True,True,org,False,False,False,True
+bandcamp.com,20.49589041,22,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+reuters.com,30.5260274,30,SWITZERLAND,UNITED STATES,False,False,com,False,False,False,True
+googleapis.com,18.86849315,18,UNITED STATES,UNITED STATES,True,False,com,False,False,False,False
+nature.com,29.3369863,29,UNITED KINGDOM,FRANCE,False,False,com,False,False,False,True
+line.me,15.60821918,16,JAPAN,JAPAN,True,True,me,False,False,False,True
+qq.com,28.60821918,38,CHINA,CHINA,True,False,com,False,False,False,True
+ucla.edu,38.64109589,0,UNITED STATES,CANADA,False,False,edu,False,False,False,True
+twitter.com,23.88493151,24,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+yandex.ru,26.21643836,27,,RUSSIA,False,False,ru,False,False,False,True
+ted.com,29.09315068,29,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+oup.com,25.79726027,26,UK,UNITED STATES,False,False,com,False,False,False,True
+t.me,13.55068493,14,UNITED STATES,UNITED KINGDOM,False,True,me,False,False,False,True
+w3.org,29.43561644,34,UNITED STATES,CANADA,False,True,org,False,False,True,True
+steampowered.com,23.33424658,24,UNITED STATES,FRANCE,False,False,com,False,False,False,True
+weebly.com,17.69863014,17,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+jhu.edu,36.73972603,0,UNITED STATES,UNITED STATES,True,False,edu,False,False,False,True
+linkedin.com,21.10136986,22,UNITED STATES,CANADA,False,False,com,False,False,False,True
+apple.com,36.81643836,38,UNITED STATES,UNITED STATES,True,True,com,False,False,False,True
+youtube.com,18.81369863,18,UNITED STATES,FRANCE,False,False,com,False,False,False,True
+mayoclinic.org,26.83835616,27,UNITED STATES,UNITED STATES,True,True,org,False,False,False,True
+taobao.com,20.63835616,21,CHINA,CHINA,True,False,com,False,False,False,True
+typeform.com,21.47123288,22,UNITED KINGDOM,IRELAND,False,False,com,False,False,False,True
+dropbox.com,28.45753425,29,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+unesco.org,29.78356164,33,FRANCE,FRANCE,True,True,org,False,False,False,True
+akismet.com,18.15890411,20,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+google.com,26.23835616,30,UNITED STATES,SWITZERLAND,False,False,com,False,False,False,True
+change.org,28.89863014,34,UNITED STATES,CANADA,False,True,org,False,False,False,True
+unsplash.com,10.52328767,11,CANADA,UNITED STATES,False,True,com,False,False,False,True
+spotify.com,17.63013699,24,SWEDEN,UNITED STATES,False,False,com,False,False,False,True
+cbsnews.com,29.1890411,29,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+discord.com,23.09315068,24,UNITED STATES,CANADA,False,False,com,False,False,False,True
+wa.me,14.37534247,23,UNITED STATES,FRANCE,False,True,me,False,False,False,True
+sohu.com,25.43561644,26,CHINA,CHINA,True,False,com,False,False,False,True
+addtoany.com,17.75068493,18,UNITED STATES,CANADA,False,False,com,False,False,False,True
+wisc.edu,38.20547945,0,UNITED STATES,UNITED STATES,True,False,edu,False,False,False,True
+wsj.com,29.54794521,29,UNITED STATES,IRELAND,False,False,com,False,False,False,True
+hbr.org,27.01643836,28,UNITED STATES,IRELAND,False,True,org,False,False,False,True
+free.fr,24.73972603,25,FRANCE,FRANCE,True,False,fr,False,False,False,True
+jotform.com,18.07945205,24,CANADA,CANADA,True,False,com,False,False,False,True
+qq.com,28.60821918,38,CHINA,CHINA,True,False,com,False,False,False,True
+adobe.com,37.0739726,37,UNITED STATES,FRANCE,False,False,com,False,False,False,True
+techcrunch.com,18.49589041,19,UNITED STATES,IRELAND,False,False,com,False,False,False,True
+ebay.com,28.35616438,28,UNITED STATES,UNITED KINGDOM,False,False,com,False,False,False,True
+whatsapp.com,15.26027397,24,UNITED STATES,FRANCE,False,False,com,False,False,False,True
+amazonaws.com,18.30958904,19,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+wix.com,28.58630137,34,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+vk.com,26.46575342,26,RUSSIAN FEDERATION,RUSSIA,False,False,com,False,False,False,True
+webmd.com,25.68219178,25,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+flickr.com,20.04931507,22,UNITED STATES,IRELAND,False,False,com,False,False,False,True
+harvard.edu,38.46575342,0,UNITED STATES,CANADA,False,False,edu,False,False,False,True
+sedo.com,25.24931507,25,GERMANY,CANADA,False,True,com,False,False,False,True
+imgur.com,14.90958904,17,ICELAND,UNITED STATES,False,False,com,False,False,False,True
+newyorker.com,30.0739726,31,UNITED STATES,CANADA,False,False,com,False,False,False,True
+telegram.me,9.915068493,11,UNITED STATES,UNITED KINGDOM,False,True,me,False,False,False,True
+buzzfeed.com,21.33972603,22,UNITED STATES,GERMANY,False,False,com,False,False,False,True
+giphy.com,11.02465753,12,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+foxnews.com,28.47671233,35,UNITED STATES,ROMANIA,False,False,com,False,False,False,True
+usatoday.com,29.62191781,31,UNITED STATES,UNITED KINGDOM,False,False,com,False,False,False,True
+cambridge.org,25.64931507,25,UNITED KINGDOM,CANADA,False,True,org,False,False,False,True
+aliyun.com,16.19726027,18,CHINA,CHINA,True,False,com,False,False,False,True
+vimeo.com,18.98356164,20,UNITED STATES,CANADA,False,False,com,False,False,False,True
+nationalgeographic.com,28.17260274,29,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+plos.org,23.18630137,24,UNITED STATES,CANADA,False,True,org,False,False,False,True
+mdpi.com,19.97260274,29,UNITED STATES,CANADA,False,False,com,False,False,False,True
+freepik.com,13.34520548,14,SPAIN,UNITED STATES,False,True,com,False,False,False,True
+entrepreneur.com,29.16986301,36,UNITED STATES,CANADA,False,False,com,False,False,False,True
+about.com,24.75068493,25,UNITED STATES,CANADA,False,False,com,False,False,False,True
+imdb.com,27.93424658,28,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+cnbc.com,26.19726027,27,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+apple.com,36.81643836,38,UNITED STATES,UNITED STATES,True,True,com,False,False,False,True
+gnu.org,28.04931507,28,UNITED STATES,UNITED STATES,True,True,org,False,False,False,True
+wp.com,26.70684932,27,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+paypal.com,24.40821918,25,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+stackoverflow.com,19.95342466,20,UNITED STATES,CANADA,False,False,com,False,False,False,True
+independent.co.uk,27.36164384,0,,UNITED STATES,False,False,co.uk,False,False,False,True
+abc.net.au,0.0,1,,FRANCE,False,False,net.au,False,False,False,True
+umn.edu,36.89589041,0,UNITED STATES,UNITED STATES,True,False,edu,False,False,False,True
+apnews.com,32.42191781,32,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+un.org,28.8630137,34,UNITED STATES,UNITED STATES,True,True,org,False,False,False,True
+pnas.org,27.72054795,32,UNITED STATES,CANADA,False,True,org,False,False,False,True
+wordpress.org,20.70410959,21,UNITED STATES,UNITED STATES,True,True,org,False,False,False,True
+fastcompany.com,28.52876712,29,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+geocities.com,27.99178082,28,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+constantcontact.com,25.19726027,30,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+hugedomains.com,20.10684932,29,UNITED STATES,CANADA,False,False,com,False,False,False,True
+vox.com,29.2,29,UNITED KINGDOM,UNITED STATES,False,False,com,False,False,False,True
+nasa.gov,26.19178082,26,REDACTED FOR PRIVACY,UNITED STATES,False,True,gov,False,False,False,True
+g.page,5.350684932,6,UNITED STATES,UNITED STATES,True,True,page,False,False,False,True
+arcgis.com,24.50410959,25,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+slideshare.net,17.67945205,18,UNITED KINGDOM,CANADA,False,False,net,False,False,False,True
+scientificamerican.com,26.6109589,27,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+sina.com.cn,25.05753425,28,,CHINA,False,False,com.cn,False,False,False,True
+digg.com,23.80273973,28,ICELAND,CANADA,False,False,com,False,False,False,True
+cam.ac.uk,20.23013699,0,UNITED KINGDOM,UNITED KINGDOM,True,False,ac.uk,False,False,False,True
+bbc.com,34.41369863,40,UNITED KINGDOM,CANADA,False,True,com,False,False,False,True
+britannica.com,28.49589041,28,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+netflix.com,26.08219178,27,UNITED STATES,IRELAND,False,False,com,False,False,False,True
+docker.com,28.87945205,29,UNITED STATES,UNITED STATES,True,True,com,False,False,False,True
+gizmodo.com,21.44109589,22,UNITED STATES,CANADA,False,False,com,False,False,False,True
+wikimedia.org,20.7369863,21,UNITED STATES,THE NETHERLANDS,False,True,org,False,False,False,True
+sciencedirect.com,26.75068493,27,UK,CANADA,False,False,com,False,False,False,True
+debian.org,24.75616438,25,UNITED STATES,CANADA,False,True,org,False,False,False,True
+indeed.com,25.70136986,25,UNITED STATES,CANADA,False,False,com,False,False,False,True
+launchpad.net,19.86849315,20,UNITED KINGDOM,UNITED KINGDOM,True,False,net,False,False,False,True
+sitemaps.org,22.3260274,23,UNITED STATES,UNITED STATES,True,True,org,False,False,False,False
+bloomberg.com,30.20273973,30,UNITED STATES,CANADA,False,False,com,False,False,False,True
+mckinsey.com,33.56164384,34,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+whitehouse.gov,26.19178082,26,REDACTED FOR PRIVACY,UNITED STATES,False,True,gov,False,False,False,True
+tinyurl.com,21.86849315,27,UNITED STATES,CANADA,False,True,com,False,False,False,True
+psu.edu,37.41917808,0,UNITED STATES,UNITED STATES,True,False,edu,False,False,False,True
+hubspot.com,18.83561644,20,UNITED STATES,CANADA,False,False,com,False,False,False,True
+wikipedia.org,22.90684932,22,UNITED STATES,THE NETHERLANDS,False,True,org,False,False,False,True
+scribd.com,17.20547945,18,UNITED STATES,CANADA,False,True,com,False,False,False,True
+sun.com,37.73972603,38,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+plesk.com,24.49315068,26,SWITZERLAND,CANADA,False,False,com,False,False,False,True
+zoom.us,21.62739726,22,UNITED STATES,UNITED STATES,True,False,us,True,False,False,True
+umich.edu,38.18630137,0,UNITED STATES,UNITED STATES,True,False,edu,False,False,False,True
+medium.com,25.54246575,25,UNITED KINGDOM,CANADA,False,False,com,False,False,False,True
+telegraph.co.uk,27.36164384,0,,IRELAND,False,False,co.uk,False,False,False,True
+intel.com,37.72328767,40,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
+economist.com,29.03835616,32,UNITED KINGDOM,CANADA,False,True,com,False,False,False,True
+apple.com,36.81643836,38,UNITED STATES,UNITED STATES,True,True,com,False,False,False,True
+canva.com,22.6,23,AUSTRALIA,CANADA,False,True,com,False,False,False,True
+indiatimes.com,27.05205479,27,CANADA,FRANCE,False,False,com,False,False,False,True
+cdc.gov,26.19178082,26,REDACTED FOR PRIVACY,UNITED STATES,False,True,gov,False,False,False,True
+googleblog.com,21.44931507,22,UNITED STATES,FRANCE,False,False,com,False,False,False,True
+nbcnews.com,26.46027397,27,UNITED STATES,UNITED STATES,True,False,com,False,False,False,True
